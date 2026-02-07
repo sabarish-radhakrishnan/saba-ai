@@ -1,0 +1,306 @@
+{
+  "task_history": [
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['application']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:32:04.946822"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T02:32:19.106691"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T02:32:20.113144"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T02:32:21.115242"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T02:32:42.605785"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T02:32:43.607128"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T02:32:44.608249"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['application']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:33:53.688035"
+    },
+    {
+      "task": "take_screenshot",
+      "strategy": "[{'action': 'hotkey', 'params': ['win', 'shift', 's']}, {'action': 'wait', 'params': [1]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:38:55.543698"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:39:34.384744"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:40:59.732087"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['lenovo vantage']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:41:21.202092"
+    },
+    {
+      "task": "take_screenshot",
+      "strategy": "[{'action': 'hotkey', 'params': ['win', 'shift', 's']}, {'action': 'wait', 'params': [1]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:42:11.555085"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:44:06.672522"
+    },
+    {
+      "task": "take_screenshot",
+      "strategy": "[{'action': 'hotkey', 'params': ['win', 'shift', 's']}, {'action': 'wait', 'params': [1]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:44:14.119571"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:49:21.010259"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T02:50:08.195528"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['deltamath']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T03:37:34.166191"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['deltamath']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T03:37:35.167330"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['deltamath']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T03:37:36.168645"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T03:38:06.606997"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T03:38:07.608286"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T03:38:08.610169"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['copilot']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T03:38:51.557868"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T04:03:18.436315"
+    },
+    {
+      "task": "open_application",
+      "strategy": "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['copilot']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "success": true,
+      "error": null,
+      "timestamp": "2025-12-27T17:29:40.930707"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['google']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T17:29:51.410177"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['google']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T17:29:52.412031"
+    },
+    {
+      "task": "search_web",
+      "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['google']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+      "success": false,
+      "error": "Failed at {'action': 'open_browser', 'params': []}",
+      "timestamp": "2025-12-27T17:29:53.412802"
+    }
+  ],
+  "successful_strategies": {
+    "open_application": [
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['application']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['application']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['lenovo vantage']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['copilot']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['file explorer']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]",
+      "[{'action': 'press_key', 'params': ['win']}, {'action': 'type_text', 'params': ['copilot']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [2]}]"
+    ],
+    "take_screenshot": [
+      "[{'action': 'hotkey', 'params': ['win', 'shift', 's']}, {'action': 'wait', 'params': [1]}]",
+      "[{'action': 'hotkey', 'params': ['win', 'shift', 's']}, {'action': 'wait', 'params': [1]}]",
+      "[{'action': 'hotkey', 'params': ['win', 'shift', 's']}, {'action': 'wait', 'params': [1]}]"
+    ]
+  },
+  "failed_strategies": {
+    "search_web": [
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['deltamath']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['deltamath']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['deltamath']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['web']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['google']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['google']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      },
+      {
+        "strategy": "[{'action': 'open_browser', 'params': []}, {'action': 'type_text', 'params': ['google']}, {'action': 'press_key', 'params': ['enter']}, {'action': 'wait', 'params': [3]}]",
+        "error": "Failed at {'action': 'open_browser', 'params': []}"
+      }
+    ]
+  },
+  "correction_history": [],
+  "success_rate": {
+    "open_application": {
+      "attempts": 11,
+      "successes": 11
+    },
+    "search_web": {
+      "attempts": 15,
+      "successes": 0
+    },
+    "take_screenshot": {
+      "attempts": 3,
+      "successes": 3
+    }
+  }
+}

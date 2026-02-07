@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Saba Browser Assistant",
+  "version": "2.0",
+  "description": "Popup assistant that can read the current page and talk to a local Flask AI backend.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Saba Assistant"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["http://127.0.0.1:5000/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
